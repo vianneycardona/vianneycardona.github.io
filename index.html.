@@ -1,0 +1,54 @@
+<html>
+  <head>
+ 
+    <title>Doña Josefa Ortiz de Dominguez</title>
+    <link rel="stylesheet" href="./style.css" type="text/css">
+ </head>
+<body>
+
+    <div class="container">
+      <div class="jumbotron">
+        <div class="row">
+          <div class="col-xs-12" >
+         
+            <h1 class="text-center"> Doña Josefa Ortiz de Dominguez</h1>
+            <h2 class="text-center">Mexican Independence Heroine </h2>
+            <div class="thumbnail"> <img src="http://rptimes.com/wp-content/uploads/2016/05/josefa-ortiz-de-dominguez-05.jpg">
+ 
+<div class="caption text-center"> Doña Josefa Ortiz de Domingue</div>
+<div>
+<h3 class="text-center"> Porque Dona Josefa es un Heroine</h3>
+   <p> Doña Josefa Ortiz de Dominguez, a Mexican patriot as well as a heroine of Mexico’s Independence War, made her name in history  for her bravery when she risked her own life alerting the rebel insurgents about the discovery of the Queretaro Conspiracy for Independence. Thanks to her, Father Miguel Hidalgo moved forward the date in which the Independence movement would start to the early hours of September 16th, 1810. Without her timely notice, the struggle for independence would have been discovered and the efforts of the conspira
+  </p>
+            </div>
+            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+              <h3 class="text-center"> Cronologia de la Vida de Dona Josefa </h3>
+
+              <ul>
+  <li>September 8, 1768 - nacio in Valladolid, what is now Morelia</li>
+ <li>16 de septiembre de 1810 - inicio a la lucha de la independencia en la madrugada</li>
+  <li>se caso en secreto y tuvieron 14 hijos Miguel Domínguez era secretario de la Real Audiencia y posteriormente, 
+    <li>en 1802, fue nombrado Corregidor de Querétaro, así que se establecieron en dicha </li>
+ <li>March 2, 1829 - murio</li>
+              </ul>
+
+
+
+
+              <blockquote>
+
+                <p> 
+                "No se debe premiar a quien sirve  de la patria. si no castigar a quien se sirbe de ella.</p>
+                <footer><cite>&nbsp;&nbsp;&nbsp;   -- Doña Josefa Ortiz de Dominguez    </cite></footer>
+              </blockquote>
+              <h3>    Si tienes tiempo, deberías leer más sobre este increíble ser humano en su              <a href="https://en.wikipedia.org/wiki/Josefa_Ortiz_de_Dom%C3%ADnguez"> Wikipedia entry</a></h3>
+            </div>
+          </div>
+        </div>
+      </div>
+      <foote class="text-center">
+        <p>  coded by vianney cardona       </p>
+      </footer>
+    </div>
+  </body>
+</html>
